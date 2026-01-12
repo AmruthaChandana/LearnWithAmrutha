@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Environment files (CRITICAL)
+.env
+.env.*
+*.local
+
+# Logs
+*.log
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
